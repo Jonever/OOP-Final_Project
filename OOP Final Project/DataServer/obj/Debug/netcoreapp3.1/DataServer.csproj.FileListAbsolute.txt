@@ -1,0 +1,15 @@
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.csproj.AssemblyReference.cache
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.AssemblyInfoInputs.cache
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.AssemblyInfo.cs
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.csproj.CoreCompileInputs.cache
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.exe
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.deps.json
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.runtimeconfig.json
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.runtimeconfig.dev.json
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.dll
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\DataServer.pdb
+C:\Users\jonev\source\repos\DataServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.dll
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.pdb
+C:\Users\jonev\source\repos\DataServer\obj\Debug\netcoreapp3.1\DataServer.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client_Forms.Form1.resources
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.GenerateResource.cache
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.AssemblyInfoInputs.cache
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.AssemblyInfo.cs
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.CoreCompileInputs.cache
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.exe
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.deps.json
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.runtimeconfig.json
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.runtimeconfig.dev.json
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.dll
+C:\Users\jonev\source\repos\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.pdb
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.dll
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.pdb
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.genruntimeconfig.cache
+C:\Users\jonev\source\repos\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.AssemblyReference.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.exe
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.deps.json
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.runtimeconfig.json
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.runtimeconfig.dev.json
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.dll
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Client Forms.pdb
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.AssemblyReference.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client_Forms.Form1.resources
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.GenerateResource.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.AssemblyInfoInputs.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.AssemblyInfo.cs
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.csproj.CoreCompileInputs.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.dll
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.pdb
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\obj\Debug\netcoreapp3.1\Client Forms.genruntimeconfig.cache
+C:\Users\jonev\Desktop\OOP Final Project\Client Forms\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

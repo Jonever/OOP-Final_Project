@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1xUfnAMZvvs1M64nUU3pxCtxEEhsGEYL+ffT3ZSD0yFkXu9FOq12+Oh1x88+V1nI4uljdhctQgTxfmRCvBEyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonev\\source\\repos\\DataServer\\DataServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
